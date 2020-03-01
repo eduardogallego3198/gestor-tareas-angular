@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gestor-tareas-angular-egc": {
+      "hosting": {
+        "gestor-tareas-angular": [
+          "gestor-tareas-angular-egc"
+        ]
+      }
+    }
+  }
+}
